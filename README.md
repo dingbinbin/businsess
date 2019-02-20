@@ -1,0 +1,2 @@
+# fast-businsess-strategy
+test
